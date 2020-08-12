@@ -1,0 +1,66 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "content": "P1",
+      "cards": [
+        {
+          "id": 2,
+          "content": "P1-P1",
+          "cards": [
+            {
+              "id":3,
+              "content": "P1-P1-P1",
+              "cards": [
+                {
+                  "id":3,
+                  "content": "P1-P1-P1-P1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "content": "P1-S1",
+          "cards": [
+            {
+              "id":3,
+              "content": "P1-S1-P1",
+              "cards": [
+                {
+                  "id":3,
+                  "content": "P1-S1-P1-P1"
+                },
+                {
+                  "id":3,
+                  "content": "P1-S1-P1-P1"
+                },
+                {
+                  "id":3,
+                  "content": "P1-S1-P1-P1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content": "S1",
+      "cards": [
+        {
+          "id": 6,
+          "content": "S1-P1",
+          "cards": [
+            {
+              "id":7,
+              "content": "S1-P1-P1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
